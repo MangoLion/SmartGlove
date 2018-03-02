@@ -1,8 +1,6 @@
 package com.nguyenphan.smartglove.main;
 
-import com.nguyenphan.smartglove.interfaces.Loggable;
-
-public class Sensor implements Loggable{
+public class Sensor{
 	String name,status = "offline";
 	int index;
 	Log log = new Log();

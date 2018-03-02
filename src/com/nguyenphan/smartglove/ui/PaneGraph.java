@@ -14,7 +14,6 @@ import javax.swing.BoxLayout;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-import com.nguyenphan.smartglove.interfaces.Loggable;
 import com.nguyenphan.smartglove.main.LogValue;
 import com.nguyenphan.smartglove.main.Sensor;
 
